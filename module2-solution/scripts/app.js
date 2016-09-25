@@ -61,8 +61,6 @@
 
         var boughtList = [];
 
-        var toBuyStatus = true;
-        var alreadyBoughtStatus = true;
         var shoppingListStatus;
 
         service.addItem = function(itemName, itemQuantity, itemDesc) {
