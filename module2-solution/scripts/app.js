@@ -48,16 +48,25 @@
         var toBuyList = [{
             name: "Cookies",
             quantity: 10,
-            desc: 'bags of'
+            desc: 'bag(s) of'
         }, {
             name: "Chips",
             quantity: 20,
-            desc: 'packets of'
+            desc: 'packet(s) of'
         }, {
             name: "Milk",
             quantity: 5,
-            desc: 'bottles of'
-        }];
+            desc: 'bottle(s) of'
+        }, {
+            name: "Bread",
+            quantity: 2,
+            desc: 'loave(s) of'
+        }, {
+            name: "Eggs",
+            quantity: 2,
+            desc: 'dozen(s) of'
+        }
+        ];
 
         var boughtList = [];
 
